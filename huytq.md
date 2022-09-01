@@ -1,7 +1,7 @@
-# Huy 1999
-## dsandffa
+# Huy DZ 
+## Dong Anh, Ha Noi
 
-### dáhfkf
+### best lol master
 
 ```sh
 yum install net-tools    /////////////  Lệnh cài net-tools trên linux
