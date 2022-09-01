@@ -11,13 +11,13 @@ yum install net-tools    /////////////  Lệnh cài net-tools trên linux
 
 ![](./img/anhhoa.png) 
 
-// Trên là cấu trức up ảnh, Lấy từ file images trong thư mục cùng cấp
+// Trên là cấu trúc up ảnh, lấy từ file images trong thư mục cùng cấp
 
 
 ![](./img/anhhoa2.png) 
 
 
-# Lí lịch
+# Lý lịch
 |Name|Age|Address|
 |---|---|---|
 |Huy|23|Đông Anh|
@@ -38,5 +38,5 @@ yum install net-tools    /////////////  Lệnh cài net-tools trên linux
 
 `git commit` // Comment cho lần up file, cái này mỗi lần up cái gì lên đều cần phải thông báo ý nghĩa rõ ràng, dev thì càng phải rõ vì teamword, up cái j lên phải cho ngta biết
 
-`git push origin master` push tất cả file lên github, tất cả các file vừa up có tên tạm thời là origin, nên giờ push origin lên nhánh master. Nhánh mastẻ và các nhanh khác tìm hiểu nhé
+`git push origin master` push tất cả file lên github, tất cả các file vừa up có tên tạm thời là origin, nên giờ push origin lên nhánh master. Nhánh master và các nhánh khác tìm hiểu nhé.
 
