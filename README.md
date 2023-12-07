@@ -1,7 +1,7 @@
 - 👋 xin chào, tôi tên Trương Quang Huy
 - 👀 Tôi 25 tuổi.
 - 🌱 Tổ 26, thị trấn Đông Anh, huyện Đông Anh, TP. Hà Nội
-- 💞️ Dã tốt nghiệp ngành Kỹ thuật điện tử truyền thông
+- 💞️ Đã tốt nghiệp ngành Kỹ thuật điện tử truyền thông
 - 📫 Học viện Công nghệ Bưu chính Viễn thông
 
 <!---
