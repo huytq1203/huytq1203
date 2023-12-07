@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @huytq1203
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 xin chào, tôi tên Trương Quang Huy
+- 👀 Tôi 25 tuổi.
+- 🌱 Tổ 26, thị trấn Đông Anh, huyện Đông Anh, TP. Hà Nội
+- 💞️ Dã tốt nghiệp ngành Kỹ thuật điện tử truyền thông
+- 📫 Học viện Công nghệ Bưu chính Viễn thông
 
 <!---
 huytq1203/huytq1203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
